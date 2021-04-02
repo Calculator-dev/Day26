@@ -1,7 +1,7 @@
 import React from 'react';
 import axios from 'axios';
 
-class PostRequestSetHandling extends React.Component {
+class PostRequestSetHeaders extends React.Component {
 
     constructor(props) {
         super(props);
@@ -32,4 +32,4 @@ class PostRequestSetHandling extends React.Component {
     }
 }
 
-export default PostRequestSetHandling;
+export default PostRequestSetHeaders;

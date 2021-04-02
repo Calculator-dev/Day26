@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import PostRequestSetHandling from './PostRequestSetHeaders';
+import PostRequestSetHeaders from './PostRequestSetHeaders';
 
 function App() {
   return (
     <div className="App">
-      <PostRequestSetHandling />
+      <PostRequestSetHeaders />
     </div>
   );
 }

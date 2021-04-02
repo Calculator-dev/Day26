@@ -32,8 +32,4 @@ class PostRequestSetHeaders extends React.Component {
     }
 }
 
-<<<<<<< HEAD
-export default PostRequestSetHading;
-=======
-
->>>>>>> 4383e66d544d7e796e4d508bd946251739d2db1f
+export default PostRequestSetHeaders;
